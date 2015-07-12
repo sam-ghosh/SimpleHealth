@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/somghosh/Programming/Samples/HealthData/SimpleHealth/libs/sdk-v1.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e2ce3786b6e9519934c4a54aaaaf39525bf4486c">
+        <dex dex="/Users/somghosh/Programming/Samples/HealthData/SimpleHealth/build/intermediates/pre-dexed/debug/sdk-v1.0.0-344176f79ba902c7ae7ef9bb2d1e8761ae3591a3.jar" />
+    </item>
+    <item
+        jar="/Users/somghosh/Programming/Samples/HealthData/SimpleHealth/libs/samsung-digital-health-healthdata-1.1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fecf39bad9f6d3d1e5ba08c9ad0aad7414c435d0">
+        <dex dex="/Users/somghosh/Programming/Samples/HealthData/SimpleHealth/build/intermediates/pre-dexed/debug/samsung-digital-health-healthdata-1.1.0-5d04f2dbdf320b1db12c545493fad55aead943af.jar" />
+    </item>
+
+</items>
